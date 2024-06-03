@@ -23,9 +23,6 @@ const Footer = (): JSX.Element => {
           link={import.meta.env.VITE_SUPPORT_SERVER}
           name="Github"
         />
-        <Icon image="https://upload.wikimedia.org/wikipedia/en/f/f8/Reform_UK_Logo.png"
-          name="Reform"
-          link="https://www.reformparty.uk"/>
       </div>
     </div>
   );
